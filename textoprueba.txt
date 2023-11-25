@@ -1,1 +1,2 @@
 Este es un archivo de prueba.
+generamos una segunda línea en este texto
